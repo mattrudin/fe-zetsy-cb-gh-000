@@ -34,7 +34,7 @@ a {
 	text-decoration: none;
 }
 
-img:hover {
+a img:hover {
 	border: 4px solid #767c7a;
 }
 
