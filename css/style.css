@@ -21,6 +21,7 @@ body {
 h1 {
 	color: #99a5a1;
 	font-size: 4em;
+	font-weight: lighter;
 	border-bottom: 1px solid #cbcbcb;
 	padding-bottom: 20px;
 	margin-bottom: 5px;
