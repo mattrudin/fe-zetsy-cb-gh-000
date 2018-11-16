@@ -1,10 +1,7 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-@font-face {
-    font-family: "Baskerville";
-    src: url(./fonts/Baskerville.ttc) format("truetype");
-}
+
 /*////////// Global Styles //////////*/
 
 body {
@@ -24,8 +21,7 @@ body {
 h1 {
 	color: #99a5a1;
 	font-size: 4em;
-	font-family: Baskerville;
-	/*font-weight: lighter;*/
+	font-weight: lighter;
 	border-bottom: 1px solid #cbcbcb;
 	padding-bottom: 20px;
 	margin-bottom: 5px;
