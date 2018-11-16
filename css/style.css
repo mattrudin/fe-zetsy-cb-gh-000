@@ -34,6 +34,10 @@ a {
 	text-decoration: none;
 }
 
+a:hover {
+	border: 4px solid #767c7a;
+}
+
 /* ----------------MEDIA--------------*/
 img {
 	max-width: 100%;
