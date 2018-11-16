@@ -29,3 +29,9 @@ h1 {
 h2 {
 	color: #717b7c;
 }
+
+/* ----------------MEDIA--------------*/
+img {
+	max-width: 100%;
+	border: 3px solid #9baca6;
+}
