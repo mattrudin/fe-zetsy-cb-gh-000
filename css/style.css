@@ -40,6 +40,7 @@ a img:hover {
 
 footer {
 	float: right;
+	margin-right: 10px;
 }
 
 .clearfix:after {
